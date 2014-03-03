@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Children_of_Dragons-1.12\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-02-17 02:50+0100\n"
+"POT-Creation-Date: 2014-03-03 21:32+0100\n"
 "PO-Revision-Date: 2014-02-17 02:50+0100\n"
 "Last-Translator: Automatically generated\n"
 "Language-Team: none\n"
@@ -1501,7 +1501,7 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=Ober
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:772
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:774
 msgid ""
 "Well, these were our storage rooms. Something must have been rotten some "
 "time ago, and from that moment both were invaded by rats and worms. We tried "
@@ -1510,60 +1510,60 @@ msgid ""
 msgstr ""
 
 #. [message]: speaker=unit
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:793
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:840
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:887
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:795
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:842
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:889
 msgid "Should I open that door?"
 msgstr ""
 
 #. [option]: speaker=unit
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:795
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:842
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:889
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:797
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:844
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:891
 msgid "Yes"
 msgstr ""
 
 #. [message]: speaker=unit
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:806
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:853
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:900
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:808
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:855
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:902
 msgid "Let's kill those creepers!"
 msgstr ""
 
 #. [option]: speaker=unit
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:815
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:862
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:909
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:817
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:864
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:911
 msgid "No"
 msgstr ""
 
 #. [message]: id=Sekol
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:955
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:957
 msgid "Avenge me, brotherssss and ssssissssterssss..."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:965
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:967
 msgid "We will never pilot this ship without him!"
 msgstr ""
 
 #. [message]: id=Ober
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:985
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:987
 msgid "We made it! The Nagas will not pursue us any further."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:989
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:991
 msgid "Surely it can only get easier from here?"
 msgstr ""
 
 #. [message]: id=Ober
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:993
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:995
 msgid "We should meet no further resistance between here and Morogor."
 msgstr ""
 
 #. [message]: id=Kahn
-#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:997
+#: Children_of_Dragons/scenarios/09_Sea_Journey.cfg:999
 msgid "Sounds good to me. Onward!"
 msgstr ""
 
